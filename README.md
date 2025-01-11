@@ -41,4 +41,4 @@ The dataset includes:
 
 ## Customization
 - Modify `n_clusters` in the script to change the number of clusters.
-- Replace `student_data.csv` with a real dataset for practical use.
+- Replace `student_data.csv` with a other datasets for practical use.
